@@ -1,0 +1,14 @@
+{
+  "name": "online-banking-backend",
+  "version": "1.0.0",
+  "description": "Python FastAPI backend for online banking system",
+  "scripts": {
+    "dev": "powershell -ExecutionPolicy Bypass -File ./run-dev.ps1",
+    "start": "powershell -ExecutionPolicy Bypass -File ./run-start.ps1",
+    "install": "pip install -r requirements.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
